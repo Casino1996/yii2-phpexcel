@@ -1,6 +1,6 @@
 <?php
 
-namespace casino1996\phpexcel;
+namespace casino\phpexcel;
 
 use yii\helpers\ArrayHelper;
 use yii\base\InvalidConfigException;

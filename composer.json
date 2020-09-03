@@ -22,7 +22,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"casino1996\\phpexcel\\" : ""
+			"casino\\phpexcel\\" : ""
 		}
 	}
 }
